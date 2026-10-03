@@ -8,5 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: "/Blood-Donation-Connect-App/",
+  base: "/Blood-Donation-Connect/",
 });
